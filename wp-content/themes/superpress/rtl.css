@@ -1,0 +1,145 @@
+/*
+Theme Name: Superpress
+ Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+ https://codex.wordpress.org/Right-to-Left_Language_Support
+ */
+ 
+.rtl {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.rtl .widget .widget-title:before {
+    left: inherit;
+    right: 0;
+}
+.rtl span.author-img,
+.rtl .post-date:before, 
+.rtl .post-comment:before, 
+.rtl .post-cats:before, 
+.rtl .post-tags:before, 
+.rtl .mdates:before{
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .meta-info>span {
+    margin-right: 0px;
+	margin-left: 10px;
+}	
+.rtl .superpress-recent ul li .superpress-recent-post-content{
+    padding-left: 0px;
+	padding-right: 	20px;
+}
+.rtl .superpress-recent-slider button.slick-arrow {
+    right: inherit;
+    left: 20px;
+}
+
+.rtl .superpress-recent-slider button.slick-prev.slick-arrow {
+    margin-right: 0;
+}
+
+.rtl .superpress-recent-slider button.slick-next.slick-arrow {
+    margin-left: 35px;
+}
+/*-----------------
+header
+----------------------*/
+.rtl .sub-menu {
+    left: inherit;
+    right: 0;
+}
+.rtl ul.sub-menu ul {
+    left: inherit;
+    right: 101%;
+}
+/*---------
+minicart
+-----------*/
+
+.rtl .mini-cart{
+  margin-right: 25px;
+  margin-left: 0;
+} 
+.rtl .search-icon{
+  margin-left: 0;
+  margin-right: 15px;
+}
+.menu-btn-wrap{
+    margin-left: 0;
+    margin-right: 15px;
+}
+.rtl .widget_shopping_cart_content ul.woocommerce-mini-cart li.woocommerce-mini-cart-item a.remove.remove_from_cart_button {
+    right: inherit;
+    left: 10px;
+}
+.rtl .widget ul.product_list_widget li a img, 
+.rtl .widget_shopping_cart_content ul.woocommerce-mini-cart li.woocommerce-mini-cart-item a img {
+    left: inherit;
+    right: 0;
+    margin-right: 0;
+    margin-left: 15px;
+}
+.rtl .widget ul.product_list_widget li, 
+.rtl .widget_shopping_cart_content ul.woocommerce-mini-cart li {
+    padding: 25px 95px 25px 30px!important;
+}
+.rtl .widget_shopping_cart_content p.woocommerce-mini-cart__buttons.buttons a.button.wc-forward {
+    margin-right: 0;
+    margin-left: 3px;
+}
+/*----------------------
+product
+-----------------------*/
+.rtl .widget .star-rating span {
+    left: inherit;
+    right: 0;
+    float: right;
+}
+.rtl .widget .star-rating span::before {
+    left: inherit;
+    right: 0;
+}
+
+/*-----------------
+product single
+-------------------*/
+
+.rtl .woocommerce div.product form.cart div.quantity, .woocommerce div.product form.cart .button {
+    float: right;
+}
+.rtl .woocommerce div.product form.cart div.quantity {
+    margin: 0 0 0 4px;
+}
+.rtl .woocommerce div.product form.cart .reset_variations {
+    left: -35px;
+    right: inherit;
+}
+/*--------------
+notific
+----------------*/
+.rtl .woocommerce-message, 
+.rtl .woocommerce-info, 
+.rtl .woocommerce-error, 
+.rtl .woocommerce-noreview{
+	padding: 20px 45px 20px 20px;
+}
+
+.rtl .woocommerce-error::before, 
+.rtl .woocommerce-info::before, 
+.rtl .woocommerce-message::before, 
+.rtl .woocommerce-noreview::before {
+    left: inherit;
+    right: 1.5em;
+}
+@media (max-width: 1024px){
+    .rtl a.navbar-toggler {
+        margin-right: 0;
+        margin-left: 5px;
+    }
+    .rtl .navbar-brand {
+        margin-right: 0;
+        margin-left: auto;
+    }
+}

@@ -1,0 +1,760 @@
+# Copyright (C) 2021 prabhavanait
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: superpress 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/superpress\n"
+"POT-Creation-Date: 2021-08-20 11:29:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: title.
+
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:16
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+
+#: footer.php:19
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+
+#: footer.php:25
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:84 inc/superpress-functions.php:597
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:86
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:121
+msgid "Primary"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#. translators: author link
+
+#: inc/module/breadcrumb.php:20 inc/superpress-functions.php:400
+msgid "Blog"
+msgstr ""
+
+#: inc/module/breadcrumb.php:22 inc/module/breadcrumb.php:25
+msgid "Home"
+msgstr ""
+
+#: inc/module/breadcrumb.php:30
+msgid "Archive by category"
+msgstr ""
+
+#: inc/module/breadcrumb.php:32
+msgid "Search results for"
+msgstr ""
+
+#: inc/module/breadcrumb.php:89
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/module/breadcrumb.php:93
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/module/breadcrumb.php:95
+msgid "Error 404"
+msgstr ""
+
+#: inc/module/breadcrumb.php:101
+msgid "Page"
+msgstr ""
+
+#: inc/module/dynamic-sidebar.php:45
+msgid "New Sidebar"
+msgstr ""
+
+#: inc/module/dynamic-sidebar.php:70
+msgid "Do you really want to delete this sidebar?"
+msgstr ""
+
+#: inc/module/dynamic-sidebar.php:127
+msgid "Add widgets here"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:12
+#: inc/superpress-customizer/inc/customizer.php:312
+msgid "Footer Layouts"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:28
+msgid "Choose Footer Layouts"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:31
+#: inc/superpress-customizer/customizers/header/header.php:32
+#: inc/superpress-functions.php:511 inc/superpress-functions.php:605
+#: inc/superpress-functions.php:755 inc/superpress-functions.php:769
+msgid "Default"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:32
+#: inc/superpress-customizer/customizers/header/header.php:33
+#: inc/superpress-functions.php:606 inc/superpress-functions.php:770
+msgid "Custom"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:48
+#: inc/superpress-functions.php:776
+msgid "Choose Footer Template"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:67
+#: inc/superpress-customizer/customizers/footer/footer.php:87
+#: inc/superpress-customizer/customizers/header/header.php:70
+#: inc/superpress-customizer/customizers/header/header.php:91
+msgid "Note:"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:68
+#: inc/superpress-customizer/customizers/header/header.php:71
+msgid "Elementor is not installed.Please install and activate elementor first."
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:88
+msgid "Footer built from elementor will be applied."
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:105
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:106
+msgid "[date],[site-title] can be used."
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:124
+msgid "Background color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/footer.php:140
+msgid "Text color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:13
+msgid "Scroll Top Settings"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:30
+msgid "Show Scroll Top"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:46
+msgid "Scroll Top Position"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:49
+msgid "Left"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:50
+msgid "Right"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:65
+msgid "Display Style"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:68
+msgid "Square"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:69
+msgid "Circle"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:84
+#: inc/superpress-customizer/customizers/header/design.php:103
+#: inc/superpress-customizer/customizers/header/design.php:183
+#: inc/superpress-customizer/customizers/theme-color/theme-color.php:65
+#: inc/superpress-functions.php:689
+msgid "Background Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:100
+msgid "Background Hover"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:116
+#: inc/superpress-customizer/customizers/header/design.php:143
+#: inc/superpress-customizer/customizers/theme-color/theme-color.php:101
+#: inc/superpress-functions.php:693
+msgid "Text Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/footer/scroll-top.php:132
+#: inc/superpress-customizer/customizers/header/design.php:163
+#: inc/superpress-customizer/customizers/theme-color/theme-color.php:119
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/design.php:15
+#: inc/superpress-functions.php:628
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/design.php:33
+msgid "Header Container"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/design.php:36
+msgid "Full"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/design.php:37
+msgid "Boxed"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/design.php:57
+msgid "Border Bottom"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/design.php:82
+msgid "Border Bottom Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/design.php:122
+#: inc/superpress-functions.php:698
+msgid "Background Image"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/design.php:203
+#: inc/superpress-customizer/customizers/theme-color/theme-color.php:83
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/design.php:223
+msgid "Radius"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/design.php:244
+msgid "Border Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:13
+#: inc/superpress-customizer/inc/customizer.php:182
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:29
+msgid "Choose Header Layouts"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:51
+msgid "Choose Header Template"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:92
+msgid "Header built from elementor will be applied."
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:111
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:129
+msgid "Header Button"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:146
+msgid "Show Search"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:162
+msgid "Show Button"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:169
+#: template-parts/header/header-default.php:130
+msgid "Purchase"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:175
+msgid "Button Text"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:188
+msgid "Button link"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:204
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:224
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:243
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:261
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:279
+#: inc/superpress-customizer/customizers/header/header.php:397
+msgid "Font Family"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:301
+#: inc/superpress-customizer/customizers/header/header.php:419
+msgid "Font Size(px)"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:323
+#: inc/superpress-customizer/customizers/header/header.php:441
+msgid "Line Height(em)"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:345
+msgid "Nav Text Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:361
+msgid "Nav Hover Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/header/header.php:379
+msgid "Dropdown"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/theme-color/theme-color.php:12
+msgid "Theme Skin Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/theme-color/theme-color.php:30
+#: inc/superpress-customizer/inc/customizer.php:332
+msgid "Theme Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/theme-color/theme-color.php:47
+msgid "Button Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/theme-color/theme-color.php:137
+#: inc/superpress-customizer/customizers/theme-color/theme-color.php:156
+msgid "Anchor Color"
+msgstr ""
+
+#: inc/superpress-customizer/customizers/theme-color/theme-color.php:174
+msgid "Anchor Hover Color"
+msgstr ""
+
+#: inc/superpress-customizer/inc/custom-controls.php:389
+msgid "Add"
+msgstr ""
+
+#: inc/superpress-customizer/inc/custom-controls.php:664
+#: inc/superpress-customizer/inc/custom-controls.php:1454
+msgid "Select weight & style for regular text"
+msgstr ""
+
+#: inc/superpress-customizer/inc/custom-controls.php:674
+#: inc/superpress-customizer/inc/custom-controls.php:693
+msgid "Select weight for"
+msgstr ""
+
+#: inc/superpress-customizer/inc/custom-controls.php:674
+msgid "italic text"
+msgstr ""
+
+#: inc/superpress-customizer/inc/custom-controls.php:693
+msgid "bold text"
+msgstr ""
+
+#: inc/superpress-customizer/inc/custom-controls.php:1095
+#: inc/superpress-functions.php:753
+msgid "Choose Sidebar"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:47
+msgid "General"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:56
+msgid "Header Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:65
+msgid "Typography"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:74
+msgid "Breadcrumb Banner"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:83
+msgid "Page Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:92
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:101
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:110
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:142
+msgid "Body Style"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:152
+msgid "Heading Style"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:162
+msgid "Font Awesome"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:172
+msgid "Primary Menu Style"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:192
+msgid "Header Styles"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:202
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:212
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:222
+msgid "Page Contents"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:232
+#: inc/superpress-customizer/inc/customizer.php:262
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:242
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:252
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:272
+msgid "Meta Settings"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:282
+msgid "Shop Page"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:292
+msgid "Related Products"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:302
+msgid "Mini Cart"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:322
+msgid "Scroll Top"
+msgstr ""
+
+#: inc/superpress-customizer/inc/customizer.php:341
+#: inc/superpress-customizer/inc/customizer.php:347
+msgid "Additional settings"
+msgstr ""
+
+#: inc/superpress-functions.php:44
+msgid "Choose Template"
+msgstr ""
+
+#. translators: %s: search term
+#. translators: %s: search query.
+
+#: inc/superpress-functions.php:435 search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/superpress-functions.php:440
+msgid "404 Error"
+msgstr ""
+
+#: inc/superpress-functions.php:516
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/superpress-functions.php:521
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/superpress-functions.php:526
+msgid "Full width"
+msgstr ""
+
+#: inc/superpress-functions.php:535
+msgid "Superpress Page Options"
+msgstr ""
+
+#: inc/superpress-functions.php:594
+msgid "Header"
+msgstr ""
+
+#: inc/superpress-functions.php:595
+msgid "Title Banner"
+msgstr ""
+
+#: inc/superpress-functions.php:596 inc/superpress-functions.php:724
+msgid "Container"
+msgstr ""
+
+#: inc/superpress-functions.php:598
+msgid "Footer"
+msgstr ""
+
+#: inc/superpress-functions.php:603
+msgid "Header Type"
+msgstr ""
+
+#: inc/superpress-functions.php:607 inc/superpress-functions.php:771
+msgid "Hide"
+msgstr ""
+
+#: inc/superpress-functions.php:612
+msgid "Choose Custom Template"
+msgstr ""
+
+#: inc/superpress-functions.php:624
+msgid "Choose if custom header is selected."
+msgstr ""
+
+#: inc/superpress-functions.php:632
+msgid "Upload Page Logo"
+msgstr ""
+
+#: inc/superpress-functions.php:634
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/superpress-functions.php:647 inc/superpress-functions.php:713
+msgid "Remove Image"
+msgstr ""
+
+#: inc/superpress-functions.php:652
+msgid "Show Banner"
+msgstr ""
+
+#: inc/superpress-functions.php:662
+msgid "Banner is disabled from global setting in customizer."
+msgstr ""
+
+#: inc/superpress-functions.php:668
+msgid "Custom Title"
+msgstr ""
+
+#: inc/superpress-functions.php:672
+msgid "Custom SubTitle"
+msgstr ""
+
+#: inc/superpress-functions.php:677
+msgid "Banner Height"
+msgstr ""
+
+#: inc/superpress-functions.php:681
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/superpress-functions.php:700
+msgid "Upload Image"
+msgstr ""
+
+#: inc/superpress-functions.php:718
+msgid "Disable Container"
+msgstr ""
+
+#: inc/superpress-functions.php:722
+msgid "Container Width"
+msgstr ""
+
+#: inc/superpress-functions.php:725
+msgid "Container Fluid"
+msgstr ""
+
+#: inc/superpress-functions.php:731
+msgid "Sidebar position"
+msgstr ""
+
+#: inc/superpress-functions.php:767
+msgid "Footer Type"
+msgstr ""
+
+#: inc/template-functions.php:63
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-functions.php:93
+msgid "Next Post"
+msgstr ""
+
+#. translators: %s: post date.
+
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+
+#: inc/template-tags.php:46
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+
+#: inc/template-tags.php:66
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+
+#: inc/template-tags.php:73
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+
+#: inc/template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+
+#: template-parts/content.php:40
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/header/header-default.php:120
+msgid "Your Shopping Cart"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "superpress"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://prabhavanait/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Description"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "prabhavanait"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.prabhavanait.com/"
+msgstr ""

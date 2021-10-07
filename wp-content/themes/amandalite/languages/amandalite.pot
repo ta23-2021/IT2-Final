@@ -1,0 +1,367 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AmandaLite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-16 09:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: amandalite"
+
+#: functions.php:141
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:144
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:25
+msgid "1 Comment"
+msgstr ""
+
+#: 404.php:8
+msgid "404"
+msgstr ""
+
+#: core/widgets/amandalite_latest_posts_widget.php:6
+msgid ""
+"A widget that displays your latest posts from all categories or a certain"
+msgstr ""
+
+#: core/widgets/amandalite_social_network.php:6
+msgid "A widget that displays your social icons"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:105
+msgid "Accent Color"
+msgstr ""
+
+#: core/widgets/amandalite_latest_posts_widget.php:73
+msgid "All categories"
+msgstr ""
+
+#. Name of the theme
+msgid "AmandaLite"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:25
+msgid "AmandaLite Theme Options"
+msgstr ""
+
+#: core/widgets/amandalite_latest_posts_widget.php:7
+msgid "AmandaLite: Latest Posts"
+msgstr ""
+
+#: core/widgets/amandalite_social_network.php:7
+msgid "AmandaLite: Social Network"
+msgstr ""
+
+#. Author of the theme
+msgid "AzuraTheme"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:104
+msgid "Body Text Color"
+msgstr ""
+
+#: comments.php:15
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:29 comments.php:46
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:25
+msgid "Comments"
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:214
+msgid "Contact Form 7"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:80
+msgid "Copyright Text"
+msgstr ""
+
+#: functions.php:37
+msgctxt "Cormorant Garamond: on or off"
+msgid "on"
+msgstr ""
+
+#: template-parts/social-network.php:18
+msgid "Facebook"
+msgstr ""
+
+#: core/widgets/amandalite_social_network.php:88
+msgid "Facebook :"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:39
+msgid "Facebook URL"
+msgstr ""
+
+#: page.php:17
+msgid "Featured Image"
+msgstr ""
+
+#: core/widgets/amandalite_latest_posts_widget.php:71
+msgid "Filter by Category:"
+msgstr ""
+
+#: core/widgets/amandalite_social_network.php:84
+msgid "Follow Description"
+msgstr ""
+
+#: core/widgets/amandalite_social_network.php:68
+msgid "Follow Us"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:29
+msgid "Footer"
+msgstr ""
+
+#: functions.php:89
+msgid "Footer Instagram"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:94
+msgid "Hide Tagline?"
+msgstr ""
+
+#. URI of the theme
+msgid "http://amandalite.azuratheme.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://azuratheme.com"
+msgstr ""
+
+#: template-parts/social-network.php:36
+msgid "Instagram"
+msgstr ""
+
+#: core/widgets/amandalite_social_network.php:96
+msgid "Instagram :"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:41
+msgid "Instagram URL"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: template-parts/post-none.php:12
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: core/widgets/amandalite_latest_posts_widget.php:13
+#: core/widgets/amandalite_latest_posts_widget.php:64
+msgid "Latest Posts"
+msgstr ""
+
+#: comments.php:18
+msgid "Leave a Reply"
+msgstr ""
+
+#. Description of the theme
+msgid "Lifestyle &amp; Fashion WordPress Blog"
+msgstr ""
+
+#: comments.php:14
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:14
+msgid "Logged in as"
+msgstr ""
+
+#: functions.php:218
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:21
+msgid "Main Menu"
+msgstr ""
+
+#: comments.php:31 comments.php:48
+msgid "Newer Comments"
+msgstr ""
+
+#: functions.php:97
+msgid "Newsletter Widget"
+msgstr ""
+
+#: template-parts/post-none.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#: core/widgets/amandalite_latest_posts_widget.php:81
+msgid "Number of posts to show:"
+msgstr ""
+
+#: comments.php:30 comments.php:47
+msgid "Older Comments"
+msgstr ""
+
+#: single.php:29 page.php:24
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/social-network.php:30
+msgid "Pinterest"
+msgstr ""
+
+#: core/widgets/amandalite_social_network.php:100
+msgid "Pinterest :"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:42
+msgid "Pinterest URL"
+msgstr ""
+
+#: comments.php:19
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:36
+msgctxt "Quicksand: on or off"
+msgid "on"
+msgstr ""
+
+#: loop/blog.php:23
+msgid "Read More"
+msgstr ""
+
+#: template-parts/post-none.php:7
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/single-post-related.php:21
+msgid "Related Posts"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search & hit enter..."
+msgstr ""
+
+#: search.php:13
+msgid "Search results for \""
+msgstr ""
+
+#: template-parts/post-share.php:6
+msgid "Share : "
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:69
+msgid "Show Social Network?"
+msgstr ""
+
+#: functions.php:81
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:12
+msgid "Skip to content"
+msgstr ""
+
+#: functions.php:222
+msgid "Smash Balloon Instagram Feed"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:28
+msgid "Social Networks"
+msgstr ""
+
+#: template-parts/post-none.php:9
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: core/widgets/amandalite_latest_posts_widget.php:67
+#: core/widgets/amandalite_social_network.php:80
+msgid "Title:"
+msgstr ""
+
+#: template-parts/social-network.php:24
+msgid "Twitter"
+msgstr ""
+
+#: core/widgets/amandalite_social_network.php:92
+msgid "Twitter :"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:40
+msgid "Twitter URL"
+msgstr ""
+
+#: template-parts/social-network.php:48
+msgid "Vimeo"
+msgstr ""
+
+#: core/widgets/amandalite_social_network.php:108
+msgid "Vimeo :"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:44
+msgid "Vimeo URL"
+msgstr ""
+
+#: comments.php:8
+msgid "Website URL"
+msgstr ""
+
+#: comments.php:13
+msgid "Your comment ..."
+msgstr ""
+
+#: functions.php:148
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:7
+msgid "Your email *"
+msgstr ""
+
+#: comments.php:6
+msgid "Your name *"
+msgstr ""
+
+#: template-parts/social-network.php:42
+msgid "Youtube"
+msgstr ""
+
+#: core/widgets/amandalite_social_network.php:104
+msgid "Youtube :"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:43
+msgid "Youtube URL"
+msgstr ""
+
+#: core/functions/customizer/azr_customizer_settings.php:50
+msgid "© Copyright 2021 - Amandalite"
+msgstr ""
